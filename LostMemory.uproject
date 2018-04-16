@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{48F9C4E6-449F-99F4-411C-3B97C32BC34E}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "LostMemory",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
